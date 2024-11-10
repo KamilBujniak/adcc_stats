@@ -7,13 +7,13 @@ Growing Interest: There's been a general increase in the number of competitors, 
 Peak Participation: 2022 saw 109 competitors, marking a peak, although fluctuations existed in earlier years (e.g., drops between 2007 and 2009).
 Early Growth: Between 1998 to 2001, the event saw rapid growth, reflecting its increasing popularity after its early years. Stabilization: From 2003 to 2013, the number of competitors stabilized at around 60-90 participants, signaling a mature but steady interest.
 
-    ![Participation](assets\Competitors.png)
+    ![Participation](assets/Competitors.png)
 
 2. Gender Trends and Inclusivity 🌸
 Rise in Female Participation: Female competitors increased from 3 participants in 2011 and 2013 to 14 in 2022, indicating a growing inclusivity.
 Male Consistency: Male participation remained strong, with 95 competitors in 2022, showing a steady interest.
 Male to Female Ratio: In 2022, the male-to-female ratio was 7:1 (95 males to 14 females), suggesting potential for future growth in female participation.
-![Gender](assets\femalemale_compet.png).
+![Gender](assets/femalemale_compet.png)
 
     
 
@@ -30,7 +30,7 @@ Increased Competitor Participation: The data illustrates a growing interest in B
 Evolution of Submission Techniques: Traditional submissions like Rear Naked Choke remain popular, but there’s a clear shift toward leg locks, including heel hooks.
 Consistent High Performers: Athletes like Gordon Ryan and Marcus Almeida have shown remarkable consistency, while newer athletes are starting to create a significant impact.
 As BJJ continues to evolve, the rise of new techniques and fresh talent will shape the sport's future!
-![Champions](assets\adcc2.jpg)
+![Champions](assets/adcc2.jpg)
 ## Contribute to the Project ✨
 If you have additional insights or data on Brazilian Jiu-Jitsu competitions, feel free to contribute! Fork the repository, make improvements, and submit a pull request. Let’s continue to grow and develop this awesome sport together! 💥.
 
