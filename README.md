@@ -13,7 +13,7 @@ Early Growth: Between 1998 to 2001, the event saw rapid growth, reflecting its i
 Rise in Female Participation: Female competitors increased from 3 participants in 2011 and 2013 to 14 in 2022, indicating a growing inclusivity.
 Male Consistency: Male participation remained strong, with 95 competitors in 2022, showing a steady interest.
 Male to Female Ratio: In 2022, the male-to-female ratio was 7:1 (95 males to 14 females), suggesting potential for future growth in female participation.
-![Gender](assets\femalemale_compet.png)
+![Gender](assets\femalemale_compet.png).
 
     
 
