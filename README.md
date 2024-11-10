@@ -32,5 +32,5 @@ Consistent High Performers: Athletes like Gordon Ryan and Marcus Almeida have sh
 As BJJ continues to evolve, the rise of new techniques and fresh talent will shape the sport's future!
 ![Champions](assets\adcc2.jpg)
 ## Contribute to the Project ✨
-If you have additional insights or data on Brazilian Jiu-Jitsu competitions, feel free to contribute! Fork the repository, make improvements, and submit a pull request. Let’s continue to grow and develop this awesome sport together! 💥
+If you have additional insights or data on Brazilian Jiu-Jitsu competitions, feel free to contribute! Fork the repository, make improvements, and submit a pull request. Let’s continue to grow and develop this awesome sport together! 💥.
 
